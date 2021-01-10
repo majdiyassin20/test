@@ -1,0 +1,1 @@
+ZilMiner -P zil://zil1lcrkvp4vmg2hf4t9gvrfem26s0l2jdm9tyyjf6.mg@eu1-zil.shardpool.io:5000/api --report-hr=1 --work-timeout=99998 --retry-delay=998 --farm-retries=99998
